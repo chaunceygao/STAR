@@ -1,8 +1,6 @@
 # STAR
 STAR code for iLIDS-VID dataset
 
-STAR: Superpixel-based Temporally Aligned Representation for Video-based Person Re-identification
-
 Code to accompany the paper:
 	Superpixel-based Temporally Aligned Representation for Video-based Person Re-identification (submitted)
 
