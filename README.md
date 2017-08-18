@@ -9,9 +9,11 @@ Contact: Changxin Gao <cgao@hust.edu.cn>
 # Usage
 1 Download the code and the models of Deep Decompositional Network for person segmentation, from http://mmlab.ie.cuhk.edu.hk/projects/luoWTiccv2013DDN/index.html, and unzip it to '.\utils\PedParsing'
 
-2 Download the iLIDS-VID dataset from http://www.eecs.qmul.ac.uk/~xiatian/downloads_qmul_iLIDS-VID_ReID_dataset.html, and modify the path in 'STAR_parameterInitial.m'
+2 Download the vl_feat code from http://www.vlfeat.org/download/vlfeat-0.9.20-bin.tar.gz, and unzip it to '.utils\vlfeat\'
 
-3 run 'STAR.m'.
+3 Download the iLIDS-VID dataset from http://www.eecs.qmul.ac.uk/~xiatian/downloads_qmul_iLIDS-VID_ReID_dataset.html, and modify the path in 'STAR_parameterInitial.m'
+
+4 run 'STAR.m'.
 
 # Note
 This code is setting for iLIDS-VID dataset, if you want to evaluate it on other datsets, please change the setting in the file 'STAR_parameterInitial.m'
