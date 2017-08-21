@@ -13,6 +13,8 @@ Contact: Changxin Gao <cgao@hust.edu.cn>
 
 3 Download the iLIDS-VID dataset from http://www.eecs.qmul.ac.uk/~xiatian/downloads_qmul_iLIDS-VID_ReID_dataset.html, and modify the path in 'STAR_parameterInitial.m'
 
+4 make the directories: '.\clip', '.\features', and '.\positions'
+
 4 run 'STAR.m'.
 
 # Note
